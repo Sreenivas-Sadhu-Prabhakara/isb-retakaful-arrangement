@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-retakaful-arrangement
+description: "BIAN Service Domain: Retakaful Arrangement (Manage pattern, Takaful and Shared Operations)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - manage
+annotations:
+  isb/business-area: "Takaful and Shared Operations"
+  isb/business-domain: "Takaful"
+  isb/asset-type: "Retakaful Treaty"
+  isb/control-record: "Retakaful Treaty Management Plan"
